@@ -5,5 +5,5 @@ c='美酒'
 print(a)
 print(b)
 print(c)
-
+print('纸上得来终觉浅，绝知此事要躬行')
 
